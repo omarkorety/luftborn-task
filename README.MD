@@ -1,4 +1,4 @@
-Decribe instructions for initiate the project
+Decribe How to Deploy Infrastructure
 ```bash
 terraform init 
 terraform validate #to make sure there no syntax errors
